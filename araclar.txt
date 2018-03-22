@@ -1,0 +1,5 @@
+Mercedes#A180#Benzin#1.6#90000
+Citroen#C4#Benzin#1.6#55000
+Renault#Megan#Benzin#1.2#25000
+Renault#Europa#LPG#1.6#145
+Renault#Europa#LPG#1.6#15000
