@@ -1,4 +1,4 @@
-#Dosya işlemleri#
+#Dosya işlemleri
 
 Bu projede düzenlenmesi gereken iki php dosyası bulunmaktadır.
 Birincisi aracEkle.php, ikincisi araclariListele.php . Bu dosyalarda yapmanız gereken işlemler yorum satırları içerisinde belirtilmiş durumda. 
